@@ -12,5 +12,5 @@
  <project path="kernel/samsung/sm7325" name="android_kernel_samsung_sm7325" remote="BlackMesa123" revision="sep-13.1/mesa" />
 
  <!-- Hardware -->
- <project path="hardware/samsung" name="hardware_samsung" remote="LineageOS" revision="lineage-19.1" />
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-19.1" />
 </manifest>
