@@ -2,7 +2,7 @@
 <manifest>
  <!--Remote-->
  <remote name="paulowesll" fetch="https://github.com/paulowesll" />
- <remote name="crdroidandroid" fetch="https://github.com/crdroidandroid" />
+ <remote name="LineageOS" fetch="https://github.com/LineageOS" />
  <remote name="Arrow" fetch="https://github.com/ArrowOS" />
 
  <!-- Trees -->
@@ -12,7 +12,7 @@
  <project path="kernel/samsung/sm7325" name="android_kernel_samsung_sm7325" remote="paulowesll" revision="sep-13.1/mesa" />
 
  <!-- Hardware -->
- <project path="hardware/samsung" name="android_hardware_samsung" remote="crdroidandroid" revision="12.1" />
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-19.1" />
 
  <!-- Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="github" revision="arrow-11.0" />
