@@ -14,7 +14,7 @@
 <remove-project name="platform/hardware/samsung/nfc" />
  
   <!-- Hardware -->
- <project path="hardware/samsung" name="PixelExperience/hardware_samsung" remote="github" revision="thirteen" />
+ <project path="hardware/samsung" name="PixelExperience/hardware_samsung" remote="github" revision="twelve" />
  
  <!-- Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="github" revision="arrow-11.0" />
